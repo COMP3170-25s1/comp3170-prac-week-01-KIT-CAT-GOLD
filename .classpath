@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/comp3170-lwjgl"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
